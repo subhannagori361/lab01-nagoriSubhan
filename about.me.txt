@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+echo "Name: Subhan Nagori" > about-me.txt
+echo "Program: Information Technology: Software Development " >> about-me.txt
+echo "Favourite Technology: Artificial Intelligence " >> about-me.txt
+echo "Favourite Food: Chicken and Fish">> about-me.txt

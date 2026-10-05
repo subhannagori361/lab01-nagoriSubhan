@@ -1,0 +1,3 @@
+echo "Learn Git" > goals.txt
+echo "Use GitHub" >> goals.txt
+echo "Manage versions" >> goals.txt
